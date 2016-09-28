@@ -2,11 +2,12 @@ Source: singularity
 Section: admin
 Priority: optional
 Maintainer: Dave Love <fx@gnu.org>
+Uploaders: A. Karl Kornel <akkornel@stanford.edu>
 Build-Depends: debhelper (>= 9), dh-autoreconf, git
 Standards-Version: 3.9.8
 Homepage: http://gmkurtzer.github.io/singularity
-Vcs-Git: https://github.com/gmkurtzer/singularity.git
-Vcs-Browser: https://github.com/gmkurtzer/singularity
+Vcs-Git: https://github.com/akkornel/singularity.git
+Vcs-Browser: https://github.com/akkornel/singularity
 
 # "singularity" is a packaged game (but the contents don't clash)
 Package: singularity-container
