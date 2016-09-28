@@ -1,3 +1,9 @@
+singularity (2.1.2-1~sbp16.04.1+1) xenial-backports; urgency=medium
+
+  * Releasing for Xenial
+
+ -- Karl Kornel <akkornel@stanford.edu>  Wed, 28 Sep 2016 14:07:37 -0700
+
 singularity (2.0-1) UNRELEASED; urgency=medium
 
   * New upstream release
